@@ -403,6 +403,20 @@ const d = {
                        "verificationVid": "https://youtu.be/40BrUXHj5nU?si=Qk7mFgB4WVDXIPwp",
                        "key": 0
 		},
+			/*=================================================================================*/
+			{
+			"vids": [
+
+			],
+			"name": "Deprivation",
+                       "author": "TomasChikito",
+                       "more": "owenpp99",
+                       "id": 129005102,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 62,
+                       "verificationVid": "no hay video xd",
+                       "key": 0
+		},
 	/*=================================================================================*/
 			{
 			"vids": [
