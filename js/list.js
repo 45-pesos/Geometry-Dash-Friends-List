@@ -93,7 +93,7 @@ const d = {
                        "id": 17711004,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 69,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -255,7 +255,7 @@ const d = {
                        "id": 61910810,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 68,
-                       "verificationVid": "https://youtu.be/TSLnLf-CZHI?si=zBkAv6cNPJT3bxyN",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},	
 		/*=================================================================================*/
