@@ -345,7 +345,7 @@ const d = {
                        "id": 56568010,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 71,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -359,7 +359,7 @@ const d = {
                        "id": 4957691,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 68,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -439,7 +439,7 @@ const d = {
                        "id": 62857306,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 75,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 			/*=================================================================================*/
@@ -467,7 +467,7 @@ const d = {
                        "id": 55429960,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 70,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 			/*=================================================================================*/
@@ -481,7 +481,7 @@ const d = {
                        "id": 513137,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 64,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 
@@ -491,7 +491,7 @@ const d = {
 			"vids": [
 	 {
 					"user": "TomasChikito",
-					"link": "",
+					"link": "no hay video xd",
 					"percent": 100,
 					"hz": "165Hz"
 				},
@@ -502,7 +502,7 @@ const d = {
                        "id": 4284013,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 72,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -510,15 +510,15 @@ const d = {
 			"vids": [
 	 {
 					"user": "TomasChikito",
-					"link": "",
+					"link": "no hay video xd",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 					 {
 					"user": "Seiryuu",
-					"link": "",
+					"link": "no hay video xd",
 					"percent": 100,
-					"hz": "165Hz"
+					"hz": "n/a"
 				},
 			],
 			"name": "Jawbreaker",
@@ -527,7 +527,7 @@ const d = {
                        "id": 6939821,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 65,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 	],
