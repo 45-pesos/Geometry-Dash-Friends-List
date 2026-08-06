@@ -356,6 +356,20 @@ const d = {
                        "verificationVid": "https://youtu.be/wcCxKAg0qIk?si=GghUpXDEbaT48ZuN",
                        "key": 0
 		},
+				/*=================================================================================*/
+			{
+			"vids": [
+
+			],
+			"name": "Silhouette",
+                       "author": "rasvaninx",
+                       "more": "Havok",
+                       "id": 7018102,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 58,
+                       "verificationVid": "https://youtu.be/g_IhuC90REM?is=-v7AFtqGaICDkm5_",
+                       "key": 0
+		},
 		/*=================================================================================*/
 			{
 			"vids": [
