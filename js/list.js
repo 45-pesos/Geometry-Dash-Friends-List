@@ -7,7 +7,7 @@ const d = {
 					"user": "rasvaninx",
 					"link": "https://youtu.be/-y8Pj1DBs7U?si=G2G9bnR0sRLGJks3",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 				
 			],
@@ -70,7 +70,7 @@ const d = {
 					"user": "rasvaninx",
 					"link": "https://youtu.be/GsU1DQ7QSo8?si=pxnQfp7td8umxXQ33",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 			],
 			"name": "Bloodbath",
@@ -103,7 +103,7 @@ const d = {
 					"user": "rasvaninx",
 					"link": "https://youtu.be/9lrcLwlVS0c?si=u5B8eLHw799vlcIL",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 			],
 			"name": "AfterMath",
@@ -222,7 +222,12 @@ const d = {
 						/*=================================================================================*/
 			{
 			"vids": [
-
+	 {
+					"user": "rasvaninx",
+					"link": "https://youtu.be/V71C38Vf05I?is=M_zyCn5jfYgtl3MW",
+					"percent": 100,
+					"hz": "165Hz"
+				},
 			],
 			"name": "Cataclysm",
                        "author": "UnboxingNJ",
@@ -358,7 +363,7 @@ const d = {
 					"user": "rasvaninx",
 					"link": "https://youtu.be/NtjNS131UIc?si=iGtSpyHq7wZv6y2-",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 			],
 			"name": "Future Funk",
@@ -390,7 +395,7 @@ const d = {
 
 			],
 			"name": "CraZy",
-                       "author": "Rasvaninx",
+                       "author": "rasvaninx",
                        "more": "DavJT",
                        "id": 40945673,
                        "pass": "ni idea :v usen el copy bypass",
