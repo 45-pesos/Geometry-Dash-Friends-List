@@ -4,7 +4,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Rasvaninx",
+					"user": "rasvaninx",
 					"link": "https://youtu.be/-y8Pj1DBs7U?si=G2G9bnR0sRLGJks3",
 					"percent": 100,
 					"hz": "n/a"
@@ -27,7 +27,7 @@ const d = {
 	
 			],
 			"name": "Infernal Abyss",
-                       "author": "Rasvaninx",
+                       "author": "rasvaninx",
                        "more": "Ggb0y",
                        "id": 27379546,
                        "pass": "ni idea :v usen el copy bypass",
@@ -67,7 +67,7 @@ const d = {
 			{
 			"vids": [
 	 {
-					"user": "Rasvaninx",
+					"user": "rasvaninx",
 					"link": "https://youtu.be/GsU1DQ7QSo8?si=pxnQfp7td8umxXQ33",
 					"percent": 100,
 					"hz": "n/a"
@@ -100,7 +100,7 @@ const d = {
 			{
 			"vids": [
 	 {
-					"user": "Rasvaninx",
+					"user": "rasvaninx",
 					"link": "https://youtu.be/9lrcLwlVS0c?si=u5B8eLHw799vlcIL",
 					"percent": 100,
 					"hz": "n/a"
@@ -343,7 +343,7 @@ const d = {
 
 			],
 			"name": "CraZy II",
-                       "author": "Rasvaninx",
+                       "author": "rasvaninx",
                        "more": "DavJT",
                        "id": 47620786,
                        "pass": "ni idea :v usen el copy bypass",
@@ -355,7 +355,7 @@ const d = {
 			{
 			"vids": [
 	 {
-					"user": "Rasvaninx",
+					"user": "rasvaninx",
 					"link": "https://youtu.be/NtjNS131UIc?si=iGtSpyHq7wZv6y2-",
 					"percent": 100,
 					"hz": "n/a"
@@ -418,7 +418,7 @@ const d = {
 
 			],
 			"name": "PG Clubstep",
-                       "author": "Rasvaninx",
+                       "author": "rasvaninx",
                        "more": "pg1004",
                        "id": 513137,
                        "pass": "ni idea :v usen el copy bypass",
@@ -439,7 +439,7 @@ const d = {
 				},
 			],
 			"name": "Nine circles",
-                       "author": "Rasvaninx",
+                       "author": "rasvaninx",
                        "more": "Zobros",
                        "id": 4284013,
                        "pass": "ni idea :v usen el copy bypass",
@@ -464,7 +464,7 @@ const d = {
 				},
 			],
 			"name": "Jawbreaker",
-                       "author": "Rasvaninx",
+                       "author": "rasvaninx",
                        "more": "ZenthicAlpha",
                        "id": 6939821,
                        "pass": "ni idea :v usen el copy bypass",
