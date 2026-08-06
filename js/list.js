@@ -228,6 +228,12 @@ const d = {
 					"percent": 100,
 					"hz": "165Hz"
 				},
+					 {
+					"user": "TomasChikito",
+					"link": "no hay video xd",
+					"percent": 74,
+					"hz": "165Hz"
+				},
 			],
 			"name": "Cataclysm",
                        "author": "UnboxingNJ",
@@ -359,7 +365,12 @@ const d = {
 		/*=================================================================================*/
 			{
 			"vids": [
-
+	 {
+					"user": "TomasChikito",
+					"link": "no hay video xd",
+					"percent": 100,
+					"hz": "165Hz"
+				},
 			],
 			"name": "CraZy II",
                        "author": "rasvaninx",
