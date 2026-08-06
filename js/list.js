@@ -112,7 +112,7 @@ const d = {
                        "id": 25610878,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 69,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -145,7 +145,7 @@ const d = {
                        "id": 7174110,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 72,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 				/*=================================================================================*/
@@ -187,7 +187,7 @@ const d = {
                        "id": 34379100,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 66,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 							/*=================================================================================*/
@@ -215,7 +215,7 @@ const d = {
                        "id": 87425029,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 70,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		
@@ -263,7 +263,7 @@ const d = {
                        "id": 61079355,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 61,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -277,7 +277,7 @@ const d = {
                        "id": 2374518,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 78,
-                       "verificationVid": "",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -292,6 +292,20 @@ const d = {
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 74,
                        "verificationVid": "https://youtu.be/1zJsaXjuvqc?si=JVmGVZelQ5Mcn1r0",
+                       "key": 0
+		},
+				/*=================================================================================*/
+			{
+			"vids": [
+
+			],
+			"name": "Comeback",
+                       "author": "TomasChikito",
+                       "more": "Soverney",
+                       "id": 90854946,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 70,
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -454,7 +468,7 @@ const d = {
 					"user": "TomasChikito",
 					"link": "",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 			],
 			"name": "Nine circles",
@@ -479,7 +493,7 @@ const d = {
 					"user": "Seiryuu",
 					"link": "",
 					"percent": 100,
-					"hz": "n/a"
+					"hz": "165Hz"
 				},
 			],
 			"name": "Jawbreaker",
