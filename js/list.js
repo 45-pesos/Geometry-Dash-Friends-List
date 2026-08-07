@@ -118,7 +118,7 @@ const d = {
                        "id": 25610878,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 69,
-                       "verificationVid": "no hay video xd",
+                       "verificationVid": "https://youtu.be/BJKNgql69-4?si=NQrmKITIEMzINK4n",
                        "key": 0
 		},
 		/*=================================================================================*/
