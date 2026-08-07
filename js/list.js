@@ -351,7 +351,7 @@ const d = {
 
 			],
 			"name": "Acropolis",
-                       "author": "rasvavinx",
+                       "author": "rasvaninx",
                        "more": "zobros",
                        "id": 5155022,
                        "pass": "ni idea :v usen el copy bypass",
