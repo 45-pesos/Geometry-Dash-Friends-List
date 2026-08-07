@@ -23,7 +23,7 @@ const d = {
                        "id": 26681070,
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 65,
-                       "verificationVid": "https://www.youtube.com/watch?v=qmVuv6Znz80",
+                       "verificationVid": "no hay video xd",
                        "key": 0
 		},
 	
