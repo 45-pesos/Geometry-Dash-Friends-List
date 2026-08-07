@@ -345,7 +345,20 @@ const d = {
                        "verificationVid": "https://youtu.be/HCXVuF5CTh4?si=1kvqwxh9NsOgGk-I",
                        "key": 0
 		},
+		/*=================================================================================*/
+			{
+			"vids": [
 
+			],
+			"name": "Acropolis",
+                       "author": "rasvavinx",
+                       "more": "zobros",
+                       "id": 5155022,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/aDlKtnZe49E?si=mN1FrM8pKNnncMwj",
+                       "key": 0
+		},
 		/*=================================================================================*/
 			{
 			"vids": [
@@ -360,10 +373,29 @@ const d = {
                        "verificationVid": "no hay video xd",
                        "key": 0
 		},
-		/*=================================================================================*/
+				/*=================================================================================*/
 			{
 			"vids": [
 
+			],
+			"name": "Poltergeist",
+                       "author": "rasvaninx",
+                       "more": "AndromedaGMD",
+                       "id": 7054561,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/L33mfrkQods?si=4s15hFAbvRVamvUV",
+                       "key": 0
+		},
+		/*=================================================================================*/
+			{
+			"vids": [
+	 {
+					"user": "rasvaninx",
+					"link": "https://youtu.be/VfFatOKTDHU?si=eTrbakd2daKYojQe",
+					"percent": 100,
+					"hz": "165Hz"
+				},
 			],
 			"name": "Windy Landscape",
                        "author": "TomasChikito",
@@ -405,6 +437,20 @@ const d = {
                        "pass": "ni idea :v usen el copy bypass",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/g_IhuC90REM?is=-v7AFtqGaICDkm5_",
+                       "key": 0
+		},
+						/*=================================================================================*/
+			{
+			"vids": [
+
+			],
+			"name": "Denouement",
+                       "author": "rasvaninx",
+                       "more": "Synactive GD",
+                       "id": 60619762,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 7,
+                       "verificationVid": "https://youtu.be/VTBo9hyLJ3w?si=_jAYcqG_66_FPVjK",
                        "key": 0
 		},
 		/*=================================================================================*/
@@ -497,6 +543,20 @@ const d = {
                        "key": 0
 		},
 
+			/*=================================================================================*/
+			{
+			"vids": [
+
+			],
+			"name": "Despacito Circles",
+                       "author": "rasvaninx",
+                       "more": "Terron",
+                       "id": 39495014,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 74,
+                       "verificationVid": "https://youtu.be/orXtlctd7AU?si=y1zbsAUHyOOiBy7n&t=12",
+                       "key": 0
+		},
 
 		/*=================================================================================*/
 			{
