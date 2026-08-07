@@ -10,15 +10,15 @@ const d = {
 					"hz": "165Hz"
 				},
 								{
-					"user": "jordancubox",
-					"link": "no hay video xd",
+					"user": "unboxingNJ",
+					"link": "https://www.youtube.com/watch?v=qmVuv6Znz80",
 					"percent": 100,
 					"hz": "n/a"
 				},
 				
 			],
 			"name": "Sonic Wave",
-                       "author": "UnboxingNJ",
+                       "author": "jordancubox",
                        "more": "Cyclic",
                        "id": 26681070,
                        "pass": "ni idea :v usen el copy bypass",
