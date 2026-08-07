@@ -530,6 +530,21 @@ const d = {
                        "verificationVid": "no hay video xd",
                        "key": 0
 		},
+				/*=================================================================================*/
+			{
+			"vids": [
+
+			],
+			"name": "Syobon Action",
+                       "author": "Orland720",
+                       "more": "Sweetdude",
+                       "id": 11229408,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 65,
+                       "verificationVid": "no hay video xd",
+                       "key": 0
+		},
+
 	],
 	"version": [
 		1,
