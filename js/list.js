@@ -9,6 +9,12 @@ const d = {
 					"percent": 100,
 					"hz": "165Hz"
 				},
+								{
+					"user": "jordancubox",
+					"link": "no hay video xd",
+					"percent": 100,
+					"hz": "n/a"
+				},
 				
 			],
 			"name": "Sonic Wave",
@@ -227,6 +233,12 @@ const d = {
 					"link": "https://youtu.be/V71C38Vf05I?is=M_zyCn5jfYgtl3MW",
 					"percent": 100,
 					"hz": "165Hz"
+				},
+					 {
+					"user": "jordancubox",
+					"link": "https://youtu.be/7UNAe-c3e1k?si=6vuDEPptoQHnlDpH",
+					"percent": 100,
+					"hz": "n/a"
 				},
 					 {
 					"user": "TomasChikito",
