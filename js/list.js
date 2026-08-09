@@ -242,8 +242,8 @@ const d = {
 				},
 					 {
 					"user": "TomasChikito",
-					"link": "no hay video xd",
-					"percent": 74,
+					"link": "https://youtu.be/oru_hzo4OrU?si=37aN8Sky-iH3CExn",
+					"percent": 100,
 					"hz": "165Hz"
 				},
 			],
