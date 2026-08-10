@@ -26,7 +26,21 @@ const d = {
                        "verificationVid": "no hay video xd",
                        "key": 0
 		},
+
+				/*=================================================================================*/
+		{
+			"vids": [
 	
+			],
+			"name": "Auditory Breaker",
+                       "author": "rasvaninx",
+                       "more": "LazerBlitz",
+                       "id": 51791710,
+                       "pass": "ni idea :v usen el copy bypass",
+                       "percentToQualify": 65,
+                       "verificationVid": "https://youtu.be/0xJbn7kiKyY?si=WPhZNYOKDMpk2c-i",
+                       "key": 0
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
