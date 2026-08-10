@@ -1,0 +1,24 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "rasvaninx",
+    "verification": "",
+    "percentToQualify": "65",
+    "password": "no sé w",
+    "records": [
+        {
+            "user": "TomasChikito",
+            "link": "",
+            "percent": 100,
+            "hz": 165
+        },
+                {
+            "user": "Seiryuu",
+            "link": "",
+            "percent": 100,
+            "hz": 1
+        }
+    ]
+}

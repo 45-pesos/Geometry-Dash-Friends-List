@@ -1,0 +1,18 @@
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "45 pesos",
+    "verification": "https://youtu.be/40BrUXHj5nU?si=Qk7mFgB4WVDXIPwp",
+    "percentToQualify": "62",
+    "password": "no sé w",
+    "records": [
+        {
+            "user": "rasvaninx",
+            "link": "https://youtu.be/NtjNS131UIc?si=iGtSpyHq7wZv6y2-",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

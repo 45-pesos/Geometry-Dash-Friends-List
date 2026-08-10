@@ -1,0 +1,30 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "UnboxingNJ",
+    "verification": "https://youtu.be/TSLnLf-CZHI?si=gIpBK_ytfKaJxzr4",
+    "percentToQualify": "66",
+    "password": "no sé w",
+    "records": [
+	 {
+					"user": "rasvaninx",
+					"link": "https://youtu.be/V71C38Vf05I?is=M_zyCn5jfYgtl3MW",
+					"percent": 100,
+					"hz": "165"
+				},
+					 {
+					"user": "jordancubox",
+					"link": "https://youtu.be/7UNAe-c3e1k?si=6vuDEPptoQHnlDpH",
+					"percent": 100,
+					"hz": "1"
+				},
+					 {
+					"user": "TomasChikito",
+					"link": "https://youtu.be/oru_hzo4OrU?si=37aN8Sky-iH3CExn",
+					"percent": 100,
+					"hz": "165"
+				}
+    ]
+}

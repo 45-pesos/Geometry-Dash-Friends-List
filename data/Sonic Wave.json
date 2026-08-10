@@ -1,0 +1,24 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "lSunix",
+    "creators": ["Cyclic"],
+    "verifier": "JordanCubox",
+    "verification": "",
+    "percentToQualify": "65",
+    "password": "no sé w",
+    "records": [
+        {
+            "user": "UnboxingNJ",
+            "link": "https://youtu.be/qmVuv6Znz80?si=ca1qlx9QpJHCymER",
+            "percent": 100,
+            "hz": 1
+        },
+        {
+            "user": "rasvaninx",
+            "link": "https://youtu.be/-y8Pj1DBs7U?si=ohK03yjH7GBpEEWl",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
