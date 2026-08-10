@@ -98,30 +98,30 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Reglas</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        No usar ningún tipo de hacks
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Grabar el record en el nivel original (en caso de uldm, manda el id en comentarios adicionales)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        No usar secret routes o bug routes
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        No usar easy modes ni modificar el gameplay del nivel 
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Una vez que un nivel cae en la legacy list, ya no aceptamos records con fechas posteriores a la caida de dicho nivel (es decir, si te pasaste el nivel un día antes que cayera en la lista y lo mandas después, siempre que haya pruebas de que te lo pasaste antes lo aceptamos)
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        No hay limite de fps para la completion, así como se permite el uso de click between frames o similares
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        No spamear records iguales al google forms, de lo contrario, rechazaremos ese record
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                       Nota: el verificador de cada nivel será simplemente el primero de nosotros que se lo pase y lo mande al formulario
                     </p>
                 </div>
             </div>
