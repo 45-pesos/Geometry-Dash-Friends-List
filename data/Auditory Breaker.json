@@ -8,6 +8,11 @@
     "percentToQualify": "65",
     "password": "no sé w",
     "records": [
-
+        {
+            "user": "Rikiryuu",
+            "link": "https://youtu.be/BgbbBr2Y2z4?si=CBragJNsKnLE1NPq",
+            "percent": 100,
+            "hz": 1
+        }
     ]
 }
