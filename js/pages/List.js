@@ -124,6 +124,9 @@ export default {
                         Si haces un nivel y lo verificas, puede entrar a la lista siempre y cuando tenga la dificultad sufuciente para entrar y que tenga decoración (no necesariamente rateado, pero que se vea bien, aplica igual a otros niveles sin rate)
                     </p>
                     <p>
+                        La dificultad mínima para añadir a la lista es medium demon
+                    </p>
+                    <p>
                        Nota: el verificador de cada nivel será simplemente el primero de nosotros que se lo pase y lo mande al formulario
                     </p>
                 </div>
