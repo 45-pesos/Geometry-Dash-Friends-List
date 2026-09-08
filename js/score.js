@@ -24,17 +24,23 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-const scale = 1; // número de decimales
+const scale = 2; // número de decimales
 
 function getScore(rank, percent, minPercent) {
+    // Limitar rango
     rank = Math.min(Math.max(rank, 1), 250);
 
+    // Fórmula exponencial base (350 → 2.5 en 250 niveles)
     let baseScore = 350 * Math.pow(2.5 / 350, (rank - 1) / (250 - 1));
+
+    // Ajuste por porcentaje alcanzado
     let score = baseScore * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
+    // Evitar negativos o NaN
     if (isNaN(score)) score = 0;
     score = Math.max(0, score);
 
+    // Penalización si no es 100%
     if (percent != 100) {
         return round(score - score / 3);
     }
