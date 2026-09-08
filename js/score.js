@@ -27,20 +27,14 @@ export function score(rank, percent, minPercent) {
 const scale = 1; // número de decimales
 
 function getScore(rank, percent, minPercent) {
-    // Limitar rango
     rank = Math.min(Math.max(rank, 1), 250);
 
-    // Fórmula exponencial base
     let baseScore = 350 * Math.pow(2.5 / 350, (rank - 1) / (250 - 1));
-
-    // Ajuste por porcentaje alcanzado
     let score = baseScore * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
-    // Evitar negativos o NaN
     if (isNaN(score)) score = 0;
     score = Math.max(0, score);
 
-    // Penalización si no es 100%
     if (percent != 100) {
         return round(score - score / 3);
     }
@@ -48,7 +42,7 @@ function getScore(rank, percent, minPercent) {
     return Math.max(round(score), 0);
 }
 
-export function round(num) {
+function round(num) {
     if (!('' + num).includes('e')) {
         return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
     } else {
